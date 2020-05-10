@@ -11,7 +11,7 @@ def githubApiTokenCredentials = string(credentialsId: githubApiTokenCredentialsI
 // Branch Sources: Single repository & branch
 // Name: master
 // Source Code Management: Git
-// Repository URL: https://github.com/couchbase/docs-ui
+// Repository URL: https://github.com/unifly-aero/unifly-docs-ui
 // Credentials: - none -
 // Refspec: +refs/heads/master:refs/remotes/origin/master
 // Branch specifier: refs/heads/master
